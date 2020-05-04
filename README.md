@@ -1,4 +1,4 @@
-## 一键部署 SS+V2Ray-plugin 到 Heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+##[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 > 1. 部署后，应`open app` ，显示`HTTP ERROR 404`，表示部署成功。
 
